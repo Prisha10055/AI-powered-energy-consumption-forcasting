@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Energy Consumption Forecasting",
+  "description": "Industry-oriented proof-of-work project: machine learning energy demand forecasting, virtual grid simulation, Flask API, and GitHub portfolio builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
